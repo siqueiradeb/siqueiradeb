@@ -1,6 +1,6 @@
 ### Oi, eu sou a Dé 👋
 
-- 🔭 Trabalho em um projeto internacional como Full Stack Dev atuando com JavaScript, TypeScript, Node.js, ReactJS. 
+- 🔭 Trabalho em um projeto internacional como Full Stack Dev
 - 🌱 Utilizo esse git para aprendizado e prática.
 - 😄 Apaixonada pelo mundo geek.
 - ⚡ Engenheira de Software.
