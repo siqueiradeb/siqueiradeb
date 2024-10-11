@@ -1,7 +1,7 @@
 ### Oi, eu sou a Dé 👋
 
 - 🔭 Trabalho em um projeto internacional como Full Stack Dev
-- 🌱 Utilizo esse git para aprendizado e prática.
+- 🌱 Utilizo pouco o Git, meu foco maior está nos projetos privados onde participo
 - 😄 Apaixonada pelo mundo geek.
 - ⚡ Engenheira de Software.
 - ❤️ Fã de Flutter.
