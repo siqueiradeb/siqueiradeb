@@ -1,6 +1,6 @@
 ### Oi, eu sou a Dé 👋
 
-- 🔭 Trabalho em um projeto internacional como Full Stack Dev
+- 🔭 Trabalhei em um projeto internacional da BMW como Full Stack Dev
 - 🌱 Utilizo pouco o Git, meu foco maior está nos projetos privados onde participo
 - 😄 Apaixonada pelo mundo geek.
 - ⚡ Engenheira de Software.
